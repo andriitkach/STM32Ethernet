@@ -1,0 +1,3 @@
+udp_echo_server.c:10:6:print_udp_payload	32	static
+udp_echo_server.c:22:6:udp_recv_echo_callback	24	static
+udp_echo_server.c:37:6:udp_echo_server_init	16	static

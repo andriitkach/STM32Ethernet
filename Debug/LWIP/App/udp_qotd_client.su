@@ -1,0 +1,3 @@
+udp_qotd_client.c:15:6:udp_qotd_req	16	static
+udp_qotd_client.c:30:6:udp_qotd_recv	24	static
+udp_qotd_client.c:38:6:udp_qotd_client_init	8	static

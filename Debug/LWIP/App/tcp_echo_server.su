@@ -1,0 +1,8 @@
+tcp_echo_server.c:34:6:tcp_echo_server_init	16	static
+tcp_echo_server.c:51:7:tcp_echo_accept_cb	32	static
+tcp_echo_server.c:74:7:tcp_echo_recv_cb	40	static
+tcp_echo_server.c:130:6:tcp_echo_err_cb	24	static
+tcp_echo_server.c:138:7:tcp_echo_poll_cb	24	static
+tcp_echo_server.c:161:7:tcp_echo_sent	32	static
+tcp_echo_server.c:179:6:tcp_echo_send	32	static
+tcp_echo_server.c:206:6:tcp_echo_close	16	static
